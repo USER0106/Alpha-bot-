@@ -1502,8 +1502,8 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ╰❒ ${prefix}sound70
 
 ╭─❒ 「 TqTo 」 
-├ My God
-├ My Parents
+├ Allah SWT
+├ My Amirr (Owner)
 ├ Fatih A.
 ├ Ferdi
 ├ DikaArdnt
@@ -1559,8 +1559,8 @@ Goodbye`
 exports.source = () =>{
 return`*------「 SOURCE CODE 」 ------*
 
-Base : https://github.com/DikaArdnt/Hisoka-Morou
-Recode : https://youtube.com/playlist?list=PLFCglBzFPHG7vSQaa9S3P8yfla_d9w-2-
+Base : https://github.com/USER0106
+Recode : https://lynk.id/amirr
 `
 }
 exports.tos = (ownernomer) => {
